@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 -->
-![Hackerrank](https://www.hackerrank.com/profile/samdw)
+[Hackerrank](https://www.hackerrank.com/profile/samdw)
