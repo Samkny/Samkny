@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Sam, a Software Engineer and animal rights activist.
 <!--### -->
-I believe in technology that improves people, not just systems. 
+I believe in ethical technology: powerful, accessible, and kind.
 
 
 Here is my HackerRank profile 
