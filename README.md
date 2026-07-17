@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 I'm Sam, a Software Engineer and animal rights activist.
+<!--### -->
 I believe in technology that improves people, not just systems. 
 
 
@@ -22,7 +23,7 @@ Here is my HackerRank profile
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samdw)
 
-## And my Tech Stack 🚀
+### And my Tech Stack 🚀
 
 <!--### 🔧 Core & Data -->
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,7 +47,7 @@ Here is my HackerRank profile
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<!-- ### ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 
 <!-- ### 🔐 Cybersecurity -->
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
