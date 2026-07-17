@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-I'm Sam a Software Engineer and animal rights activist. 
+I'm Sam, a Software Engineer and animal rights activist.
 I believe in technology that improves people, not just systems. 
 
 
